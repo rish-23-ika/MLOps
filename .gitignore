@@ -51,4 +51,4 @@ checkpoints/
 
 # Temporary files
 *.tmp
-*.temp
+*.temp.pytest_cache/
