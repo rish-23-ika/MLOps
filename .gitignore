@@ -52,3 +52,6 @@ checkpoints/
 # Temporary files
 *.tmp
 *.temp.pytest_cache/
+
+# MLflow local tracking data
+mlruns/
